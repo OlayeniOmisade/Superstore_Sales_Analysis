@@ -4,6 +4,8 @@ This analysis examines the historical sales performance of Superstore from 2015 
 
 **Business Problem**
  The Superstore is predicted to face significant challenges in maintaining consistent sales performance. Analysis of historical data from 2015 to 2018 reveals a general rise in sales, but a notable decline is projected for the first week of January 2019. This downturn, which began in the final week of December 2018, poses a risk of substantial financial loss. Forecasted sales drop sharply by December 31, 2018, followed by a brief upsurge, then a significant decline by January 3, 2019. The projected loss in sales for January 2019 suggests potential issues with inventory management and marketing strategies, which could impact revenue and operational efficiency.
+
+ <img width="468" alt="image" src="https://github.com/user-attachments/assets/c8d013e5-9f6d-4a5a-82fe-fb9ff55b84f6">
  
 **Methodology** 
 Data Acquisition:
